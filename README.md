@@ -6,6 +6,9 @@
 ## Descripción idea de proyecto
 
 
+## Justificación del proyecto
+
+
 ## Lista de periféricos
 
 
