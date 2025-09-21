@@ -9,4 +9,4 @@
 ## Lista de periféricos
 
 
-## Diagrama arquitectura
+## Diagrama de la arquitectura
