@@ -3,4 +3,10 @@
 ## Integrantes
 
 
-## Documentación
+## Descripción idea de proyecto
+
+
+## Lista de periféricos
+
+
+## Diagrama arquitectura
